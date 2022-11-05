@@ -8,13 +8,14 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-        debugShowCheckedModeBanner: false,
-        title: 'Currency converter',
-        theme: ThemeData(
-          primarySwatch: Colors.grey,
-        ),
-        // TODO
-        // ConverterPage es el widget que presenta la página de la aplicación
-        home: const Text('aquí colocamos ConverterPage'));
+      debugShowCheckedModeBanner: false,
+      title: 'Currency converter',
+      theme: ThemeData(
+        primarySwatch: Colors.grey,
+      ),
+      // TODO
+      // ConverterPage es el widget que presenta la página de la aplicación
+      home: ConverterPage(),
+    );
   }
 }
