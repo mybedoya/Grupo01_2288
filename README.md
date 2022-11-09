@@ -1,13 +1,20 @@
 # Reto # 1
 
-Proyecto base para el primer reto
+Proyecto "Calculador de divisas Euro, dolar y peso colombiano"
 
-El código incluye comentarios que explican la estructura del proyecto y los puntos en los que se tiene que trabajar están marcados con un TODO. 
+El código incluye comentarios que explican la estructura del proyecto y los puntos en los que se trabajaron, los cuales están marcados con un TODO. 
 
-El siguiente es un demo de la interfaz a la que se debe llegar (funcionalidades adicionales o mejoras a la interfaz son permitidas):
+El siguiente es un demo de la interfaz a la que se llego (sin funcionalidades adicionales a las solicitadas):
 
-<img src="https://user-images.githubusercontent.com/4458129/173209201-ecf02c3e-8571-42a0-92d5-5a9111f5b3b0.gif" width="300" />
+<img src="https://media.giphy.com/media/P7dMGXoCh4D4IENEtc/giphy.gif" width="300" height="600" />
 
-Solución:
+Instalacion
 
-https://github.com/MisionTIC4b/f_currency_converter
+puedes descargarlo del repositorio y clonarlo y abrirlo desde el visual studio code (debes tener instalado, flask y dart)
+
+
+Como contribuir
+
+Puedes crear un pull request al proyecto
+
+
